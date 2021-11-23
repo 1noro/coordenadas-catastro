@@ -1,2 +1,2 @@
 # coordenadas-catastro
-Extractor de coordenadas del mapa e la Sede Electrónica del Catastro de España.
+Extractor de coordenadas del mapa en la Sede Electrónica del Catastro de España.
